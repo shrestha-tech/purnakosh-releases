@@ -22,4 +22,4 @@ Prefer the browser? Use the [web app](https://purnakosh.nepali-tech.workers.dev/
 - [Privacy policy](https://purnakosh.nepali-tech.workers.dev/privacy.html)
 - [Terms of use](https://purnakosh.nepali-tech.workers.dev/terms.html)
 
-Questions: Sujan Shrestha, sthasujan1992@gmail.com
+Questions: Sujan Shrestha, sujan.saresta@gmail.com
