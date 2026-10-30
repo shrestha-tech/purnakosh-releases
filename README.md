@@ -14,12 +14,12 @@ Get the latest APK from **[Releases](https://github.com/shrestha-tech/koshvero-r
 from your browser or file manager; on Samsung phones, turn off **Auto Blocker** first (Settings → Security and
 privacy → Auto Blocker). Once installed, most updates arrive inside the app.
 
-Prefer the browser? Use the [web app](https://sujansaresta.github.io/purnakosh-web/).
+Prefer the browser? Use the [web app](https://purnakosh.nepali-tech.workers.dev/).
 
 ## Learn more
 
-- [About Purnakosh](https://sujansaresta.github.io/purnakosh-web/about.html)
-- [Privacy policy](https://sujansaresta.github.io/purnakosh-web/privacy.html)
-- [Terms of use](https://sujansaresta.github.io/purnakosh-web/terms.html)
+- [About Purnakosh](https://purnakosh.nepali-tech.workers.dev/about.html)
+- [Privacy policy](https://purnakosh.nepali-tech.workers.dev/privacy.html)
+- [Terms of use](https://purnakosh.nepali-tech.workers.dev/terms.html)
 
-Questions: Sujan Shrestha, sthasujan1992@gmail.com
+Questions: Sujan Shrestha, sujan.saresta@gmail.com
